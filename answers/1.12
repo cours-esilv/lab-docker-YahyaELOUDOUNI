@@ -1,0 +1,1 @@
+docker run -d -p 80:80 --env WS_BACK_URL=http://localhost:5000 my-app-front
